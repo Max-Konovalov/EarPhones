@@ -3,6 +3,6 @@ package ru.mkonovalov;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	EarSet earSet = new EarSet();
     }
 }
